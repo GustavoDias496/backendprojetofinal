@@ -2,8 +2,7 @@ const mongoose = require('mongoose')
 
 const Person = mongoose.model('Person',{
     name: String,
-    salarty: Number,
-    approved: Boolean,
+    password: String,
 })
 
 module.exports = Person
