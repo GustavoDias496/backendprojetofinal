@@ -16,7 +16,7 @@ Link da API -> https://backendprojetoweb.herokuapp.com/
 
 ### Como utilizar a aplicação
 
-Dentro da API existe três rotas que são elas: "/saida", "/entrada" e "/person",
+Dentro da API existe três rotas que são elas: "/saida" e "/entrada",
 no momento estamos utilizando apenas a estrada e saida, a rota de person será
 utilizada futuramente para a implementação de usuários no sistema. Em cada rota é 
 possível fazer as quatro operações do CRUD, porém a opção de update deve se usar o
